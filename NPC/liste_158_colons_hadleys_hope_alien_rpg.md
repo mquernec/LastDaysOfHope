@@ -216,29 +216,5 @@
 
 ---
 
-# Notes pour le MJ
 
-## PNJ immédiatement utiles
-- Travis Gorman : Colonial Marshal débordé, sans vrais moyens.
-- Dr. Melissa Cade : obsédée par les formes de vie découvertes hors périmètre.
-- Billy Conover : connaît tous les secrets et dettes de la colonie.
-- Rebecca Stone : cache des anomalies dans les processeurs atmosphériques.
-- Quentin Sharp : entretient discrètement des accès spéciaux au réseau MU/TH/UR.
-- Leo Tannen : organise des jeux clandestins dans son casino.
-- Clara Benton : affirme avoir entendu quelque chose bouger dans les serres.
-
-## Rumeurs dans Hadley’s Hope
-1. Des bruits circulent dans les conduits pendant les coupures de courant.
-2. Des colons auraient disparu près des tunnels techniques.
-3. Weyland-Yutani attendrait une découverte majeure.
-4. Certaines sections souterraines seraient interdites sans explication.
-5. Les communications vers la Terre sont filtrées.
-6. Des silhouettes auraient été vues hors du périmètre pendant les tempêtes.
-
-## Ambiances recommandées
-- Lumières vacillantes et générateurs qui grondent.
-- Odeur de métal humide, plastique chaud et café brûlé.
-- Couloirs étroits noyés dans la condensation.
-- Radios qui crachent des parasites en permanence.
-- Impression constante que la colonie entière retient son souffle.
 
