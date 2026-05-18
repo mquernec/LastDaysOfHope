@@ -14,7 +14,7 @@
 2. Anne Porter — Adjointe administrative
 3. Victor Hale — Comptable colonial
 4. Diane Velez — Ressources humaines
-5. Martin Kroll — Coordinateur des opérations
+5. Tim Lydecker — Coordinateur des opérations
 6. Sandra Feld — Archiviste coloniale
 7. Mei-Lin Brenner — Gestion du ravitaillement
 8. Russell Keene — Contrôle des stocks
@@ -68,7 +68,7 @@
 41. Anton Krieger — Pompes géothermiques
 42. Nia Campbell — Traitement de l’air
 43. Sophie Lambert — Contrôle humidité
-44. Walter Quinn — Réseau thermique
+44. John J Marachuk — Réseau thermique
 45. Henrik Olsen — Raffinerie atmosphérique
 46. Priya Raman — Analyse contaminants
 47. Wes Osterman — Maintenance tours climatiques
