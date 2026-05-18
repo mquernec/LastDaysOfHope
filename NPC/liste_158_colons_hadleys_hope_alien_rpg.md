@@ -116,7 +116,7 @@
 74. Simon Weaver — Culture algale
 75. Yara Haddad — Serres alimentaires
 76. George Phelps — Recyclage organique
-77. Mina Solberg — Banque de semences
+77. Mina Solberg — Botaniste
 78. Aaron Blake — Élevage expérimental
 79. Ruth Kim — Production protéines
 80. Oscar Medina — Irrigation
