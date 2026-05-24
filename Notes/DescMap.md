@@ -260,6 +260,56 @@
     - Permettent de transporter un œuf
 
 ---
+#### **Laboratoire géologique ouest**
+
+Ce laboratoire encombré servait à suivre l'avancement de la terraformation de LV-426.
+
+Il est désormais désert. Un beignet à moitié mangé repose sur un bureau dans le laboratoire est (de quoi calmer la faim d'un joueur).
+Laboratoire stérile
+
+Ce laboratoire désert ne recèle que peu d'intérêt, hormis quelques tasses de café à moitié bues et une petite cage avec deux souris.
+
+Ces souris peuvent déclencher les détecteurs de mouvement (voir l'événement « Mouvement détecté » page 13).
+
+#### **Bureau d'exploration**
+
+Un autre bureau désert. Une machine à café en bon état de marche se trouve sur un bureau.
+
+Une tasse augmente le niveau de stress de 1, mais repousse la fatigue due au manque de sommeil d'un quart de travail.
+
+De plus, si les PJ font le moindre bruit, le drone caché dans la bouche d'aération voisine sera alerté et se mettra à les traquer.
+
+Les xénomorphes peuvent même les attaquer ici.
+
+#### **Géolab Est**
+
+Cette pièce est un véritable cauchemar. Tables et chaises sont renversées, l'air est saturé de poudre et du sang est partout – niveau de stress : +1.
+
+Il n'y a pas de cadavres, mais une épaisse traînée de sang macule le mur et remonte jusqu'à la grille d'aération au plafond. Si les PJ fouillent la pièce (jet d'OBSERVATION et un peu de temps), ils trouvent un pistolet de service M4A3 chargé dans le mess.
+
+#### **Bureau du responsable géologique**
+ Cette pièce est jonchée de tasses à café et les poubelles débordent.
+En cas de fouille, un jet d'OBSERVATION réussi (un peu de temps) permettra aux PJ de trouver de la malbouffe (ce qui soulagera la faim de deux PJ).
+
+#### **Bureau du directeur adjoint**
+ Ce petit bureau étouffant, qui appartenait autrefois au directeur adjoint des opérations, Lydecker, est resté quasiment intact. En cas de fouille, un jet d'OBSERVATION réussi (un peu de temps) permettra aux PJ de trouver une clé marquée « Armurerie » dans un tiroir.
+
+#### **Bureau des biens/réclamations**
+ En cas de fouille, un jet d'OBSERVATION réussi (un peu de temps) permettra aux PJ de trouver 100 dollars W-Y en espèces (D6 × 100), une bouteille d'eau et une barre chocolatée (ce qui soulagera la soif et la faim d'un PJ).
+
+#### **Salles de stockage**
+
+Plusieurs salles de stockage sont réparties dans l'aile sud,
+
+indiquées sur la carte. Elles ont été pillées par des colons paniqués, mais si les PJ passent un certain temps à fouiller une salle de stockage, laissez-les effectuer un jet d'OBSERVATION. Pour chaque résultat, relancez le dé sur la table adjacente.
+Relancez les doublons. Une salle de stockage ne peut être fouillée qu'une seule fois,mais plusieurs PJ peuvent participer. Notez que la salle de stockage derrière le centre de maintenance de la station, au niveau 2, est une armurerie avec une table aléatoire différente (page 10).
+D6 ITEM FOUND
+1 Fire axe
+2 Watatsumi Bolt Gun with D6 bolts
+3 Power cell
+4 Medkit
+5 Flashlight
+6 Seegson C-Series Magnetic Tape Recorder
 
 ### **🏥 Level 2 - COMMANDEMENT, INFIRMERIE, MORGUE**
 
@@ -285,6 +335,30 @@
 
 
 ---
+### **Morgue**
+Cette pièce froide et dépouillée est dominée par une grande dalle métallique sur laquelle repose le corps d'un homme, apparemment mort.
+
+Il s'agit de John J. Marachuk, un colon qui a été attaqué par un facehugger et qui est mort en tentant d'extraire le xénomorphe de son visage.
+
+Si les PJ examinent le corps et effectuent un jet d'Observation (qui dure une durée), ils peuvent déterminer qu'il a probablement été tué par strangulation et une fracture des cervicales.
+
+Le Chestburster : Lorsque les PJ se trouvent à la morgue, un Chestburster surgit soudainement de la poitrine de Marachuk dans un jaillissement de sang et les attaque. Tous les PJ présents doivent effectuer un jet de panique. Le facehugger avait déjà implanté l'embryon dans le pauvre colon au moment de sa mort, et celui-ci s'est développé grâce aux nutriments de son corps après son décès.
+
+- **Chambres** froides de la morgue : Ces compartiments servent à conserver les corps. Ils sont tous vides, sauf un, qui contient le corps du directeur des opérations Al Simpson, tué lors de l'attaque des Xénomorphes.
+
+- **Bureau**  Le petit bureau au fond de la morgue ne contient pas grand-chose d'intéressant, si ce n'est une bouteille d'eau sur le bureau. Si le bureau est fouillé, un jet d'OBSERVATION réussi (un étirement) permettra aux PJ de trouver une clé marquée « Armurerie » dans un tiroir.
+
+- **Salle de stase**
+
+Cette pièce exiguë sert d'accès à la salle d'opération, ainsi qu'au stockage des biopsies et aux tubes de régénération. On y trouve
+sept grands tubes de verre posés sur des tables, chacun contenant un Facehugger arachnéen flottant dans un liquide. Cinq d'entre eux sont morts, mais deux sont vivants – retirés chirurgicalement avant l'implantation de l'embryon, tuant leurs victimes au passage (dontle colon John J. Marachuk, que l'on retrouve à la morgue).
+
+Les Facehuggers : Si un PJ s'approche d'un tube, un Facehugger réagira soudainement en agitant sa queue – niveau de stress +1 pour le PJ. Les tubes peuvent être déplacés et transportés (comptent comme un objet d'inventaire) et même jetés dans une pièce ou une zone adjacente – un Facehugger vivant sera alors libéré et attaquera immédiatement.
+
+- **Accès chirurgical** : Cette pièce possède une fenêtre d'observation et
+
+une porte donnant sur la salle d'opération adjacente. La porte est verrouillée et ne peut être ouverte de l'intérieur. De l'extérieur, elle peut être ouverte avec un jet COMTECH, ou défoncée en lui infligeant 10 points de dégâts (armure de niveau 2) 
+– un moyen sûr d'alerter le Drone situé dans le couloir de niveau 1 juste en dessous, ainsi que tout autre Xénos à proximité. La fenêtre du laboratoire médical possède une armure de niveau 2 et se brisera si une attaque la traverse.
 
 #### **🏥 MÉDILAB**
 
